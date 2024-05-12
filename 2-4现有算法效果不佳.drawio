@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2024-05-12T11:19:52.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="L_8T0ydjkWxLnYA_loIr" version="24.4.0" type="github">
+  <diagram name="第 1 页" id="Zz-yE3sN_qA-QzTztnrS">
+    <mxGraphModel dx="863" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-1" target="M6vuR5I6lieMZLp6jPxb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-1" target="M6vuR5I6lieMZLp6jPxb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-1" target="M6vuR5I6lieMZLp6jPxb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-1" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;宋体&quot;&gt;现有模态不完备相关算法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-2" target="M6vuR5I6lieMZLp6jPxb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-2" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;宋体&quot;&gt;样本生成方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="160.72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-3" target="M6vuR5I6lieMZLp6jPxb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-3" value="&lt;span style=&quot;line-height: 150%;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot; face=&quot;宋体&quot;&gt;不变特征空间方法&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="160.72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-4" target="M6vuR5I6lieMZLp6jPxb-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-4" target="M6vuR5I6lieMZLp6jPxb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-4" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;宋体&quot;&gt;知识蒸馏方法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="160.72" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;忽略了模态独有信息&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="200" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M6vuR5I6lieMZLp6jPxb-8" target="M6vuR5I6lieMZLp6jPxb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;传统蒸馏粒度过粗&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="290" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-15" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;精确匹配的传统蒸馏策略在模态不完备上缺乏适应性&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="414" y="350" width="146" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-17" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;宋体&quot;&gt;现有算法效果不佳&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="630" y="210" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="M6vuR5I6lieMZLp6jPxb-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="590" y="151.25" width="20" height="257.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
